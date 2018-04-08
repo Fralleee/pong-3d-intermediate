@@ -5,8 +5,8 @@ A more advanced approach to the game logic of pong
 
 - Add pizzazz
   - Deform the ball based on velocity
-    - Check if possible to remove bias
-	- No scaling if not moving
+    + Check if possible to remove bias
+	+ No scaling if not moving
 	- Fix rigidBody to fetch automatically from parent
   - Particle Effects on spin and ball hit
   - Camera shake on ball hit and score
